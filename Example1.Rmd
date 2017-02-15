@@ -1,15 +1,12 @@
 ---
 title: "Example1"
 author: "Lindsay Suderman"
-date: "February 15, 2017"
+date: "`r format(Sys.Date())`"
 output: html_document
 ---
 
 # This is a markdown document:
-## Smaller?
-### Smaller?
-#### Smaller?
-##### Smaller?
+
 ```{r}
 
 

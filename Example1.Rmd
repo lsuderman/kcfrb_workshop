@@ -5,3 +5,13 @@ date: "February 15, 2017"
 output: html_document
 ---
 
+# This is a markdown document:
+## Smaller?
+### Smaller?
+#### Smaller?
+##### Smaller?
+```{r}
+
+
+
+```
